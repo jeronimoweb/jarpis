@@ -20,5 +20,5 @@
 	
 <h2>Check my website @ <a href="https://www.jarpis.pt" target="_blank"> Jarpis </a>  </h2>
 
-All rights reserved to Jarpis, LDA.
-Developed and designed by Ensaio de cor.
+<p>All rights reserved to Jarpis, LDA.<br/>
+Developed and designed by Ensaio de cor.</p>
